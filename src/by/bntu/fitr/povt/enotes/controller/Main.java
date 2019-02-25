@@ -12,7 +12,7 @@ public class Main {
         Player player4 = new Player("Masha", 22, "1234");
         Player player5 = new Player("Vika", 22, "1234");
         Player player6 = new Player("Jerry", 22, "1234");
-
+//asdfasdf
 
         administrator.banPlayer(player1);
         administrator.banPlayer(player2);
